@@ -1,0 +1,6 @@
+## Requirements
+
+Pandas 
+NumPy
+matplotlib
+Seaborn
